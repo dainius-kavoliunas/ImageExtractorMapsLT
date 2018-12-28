@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E4AB93C2-8DC7-42B7-8672-09A250FFDF32}</ProjectGuid>
+    <ProjectGuid>{0B11E4A8-5F94-4436-A9E2-EC0036B6461B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ImageExtractor</RootNamespace>
-    <AssemblyName>ImageExtractor</AssemblyName>
+    <RootNamespace>ImageMerger</RootNamespace>
+    <AssemblyName>ImageMerger</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
